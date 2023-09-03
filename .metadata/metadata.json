@@ -1,0 +1,13 @@
+{
+  "name" : "Construction Sectors Use 3 Infrastructure",
+  "id" : "",
+  "version" : "1.0",
+  "supported_game_version" : "1.4.*",
+  "short_description" : "",
+  "thumbnail" : "thumbnail.png",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
